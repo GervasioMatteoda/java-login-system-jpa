@@ -33,6 +33,14 @@ El proyecto se gesta con la idea de proporcionar no solo una solución funcional
 </ul>
 <!--  -->
 
+<!-- Diagrama de Clases Refinado -->
+<h3>Diagrama de Clases Refinado:</h3>
+<div align="center">
+  <a href="https://github.com/GervasioMatteoda/java-login-system-jpa/blob/main/diagrama-clases-refinado.drawio.png">
+    <img src="https://github.com/GervasioMatteoda/java-login-system-jpa/blob/main/diagrama-clases-refinado.drawio.png"/></a>
+</div>
+<!-- -->
+
 <!-- Contacto -->
 <h3>Contáctame:</h3>
 <p align="center">Matteoda, Gervasio José</p>
