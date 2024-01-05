@@ -4,7 +4,7 @@
 El proyecto se gesta con la idea de proporcionar no solo una solución funcional de inicio de sesión, sino también un entorno educativo donde los desarrolladores puedan adentrarse en las complejidades de la programación Java y las tecnologías asociadas.</p>
 <!--  -->
 
-<!-- Objetivos -->
+<!-- Objetivos & Características-->
 <h3>Objetivos y Características:</h3>
 <ul align="justify">
   <li><b>Práctica de Java con Programación Orientada a Objetos:</b> A través de la creación de proyectos, los desarrolladores pueden mejorar sus habilidades en Java, aplicando los principios fundamentales de la POO</li>
@@ -20,7 +20,7 @@ El proyecto se gesta con la idea de proporcionar no solo una solución funcional
   <li><b>Conexión a la Base de Datos:</b> La conexión está configurada para una base de datos local utilizando el usuario "postgres" y la contraseña "0000". Puedes modificar estos detalles en el archivo de configuración de persistencia.</li>
   <li><b>Imagen de la Interfaz:</b> En caso de errores con la imagen de la interfaz, asegúrate de descargar la imagen y actualizar la ubicación en el código para reflejar la ruta correcta en tu computadora.</li>
   <li><b>Robutez del Programa:</b> No se hizo hincapié en la robustez o seguridad, la intención era reforzar otros conocimientos. No se recomienda utilizar este enfoque en un entorno de producción.</li>
-  <li><b>Herramientas Utilizadas:</b> El proyecto fue desarrollado utilizando NetBeans 12 y Java JDK 8.</li>
+  <li><b>Herramientas Utilizadas:</b> El proyecto fue desarrollado utilizando NetBeans 12, Java JDK 11 y JCalendar.</li>
 </ul>
 <!--  -->
 
